@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>228154527786-f30snciv68v03gdj6va4ce208ojt45o6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.228154527786-f30snciv68v03gdj6va4ce208ojt45o6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCjhLuhDD03yT0dM8LjQtHeQin3z8utpoc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>228154527786</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sabaFashionStore</string>
+	<key>PROJECT_ID</key>
+	<string>saba-fashion-store</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saba-fashion-store.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:228154527786:ios:eb5b442e3df1f8b067b353</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228154527786",
+    "project_id": "saba-fashion-store",
+    "storage_bucket": "saba-fashion-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228154527786:android:e1406b9e794c081767b353",
+        "android_client_info": {
+          "package_name": "com.example.saba_fashion_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228154527786-tlo55e3aba3fagrhinidh4p4ovs006oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmhI_N1DIZkzS2JdVXCREe38cYc6cxUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228154527786-tlo55e3aba3fagrhinidh4p4ovs006oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
